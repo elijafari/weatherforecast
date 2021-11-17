@@ -3,7 +3,7 @@ const form = document.querySelector(".header-section form");
 const input = document.querySelector(".header-section input");
 const msg = document.querySelector(".header-section .msg");
 const list = document.querySelector(".result-section .cities")
-const apiKey = "b616e8f9b0f5ea6e4561ed1d32ac9fc8";
+const apiKey = "b616e8f9b0f5ea6e4561ed1d32ac9fc";
 window.onload = init();
 form.addEventListener("submit", e => {
     e.preventDefault();
