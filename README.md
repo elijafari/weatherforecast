@@ -4,7 +4,7 @@
 Weather App 
 
 **About (User Story)**
-The requirment for this assignment was design a Weather forecast website with help of HTML, JavaScript, CSS, openweathermap.org APIs
+The requirment for this assignment was design a Weather forecast website with help of HTML, JavaScript, CSS, Grid layout, openweathermap.org APIs
 
 **Features:**
 A search box to enter city name and if user don't enter anything it will show a message under searchbox and will show weather forecast in different boxes.
